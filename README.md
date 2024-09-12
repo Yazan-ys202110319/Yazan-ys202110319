@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Yazan Jumaa</h1>
+<h1 align="center">Hi 👋, I'm Yazan Jumaa </h1>
 <h3 align="center">I am a computer science student at Qatar University, aspiring software engineer</h3>
 
-<img align='right' alt='Coding' width="400" src='https://giphy.com/gifs/bGgsc5mWoryfgKBx1u'>
 
 - 🔭 I’m currently working on **the software engineering life cycle and computer networks.**
+  
+<img align='right' alt='Coding' width="340" src='https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif'>
 
 - 🌱 I’m currently learning **Data Analysis with Python.**
 
@@ -24,3 +25,5 @@
 
 <h3 align="left">Libraries/Frameworks:</h3>
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>  </p>
+
+
