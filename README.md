@@ -2,7 +2,7 @@
 <h3 align="center">I am a computer science student at Qatar University, aspiring software engineer</h3>
 
 
-- 🔭 I’m currently learning  **computer networks and software development life cycle (SDLC)**
+- 🔭 I’m currently learning  **computer networks and the software engineering life cycle (SDLC)**
   
 <img align='right' alt='Coding' width="340" src='https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif'>
 
