@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yazan Jumaa </h1>
+<h1 align="center">Hi 👋, I'm Yazan</h1>
 <h3 align="center">I am a computer science student at Qatar University, aspiring software engineer</h3>
 
 
