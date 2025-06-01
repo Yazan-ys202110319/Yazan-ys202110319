@@ -1,4 +1,4 @@
-# Hello World! I am Yazan 
+# Hello World! I am Yazan U+1F44B
 I am a computer science student at Qatar University, aspiring software engineer<br>🔭 I’m currently studying Web Development and Reinforcement Learning <br>🌱 I’m currently learning React JS<br>📫 How to reach me yazan.j.alsaleh@gmail.com
 
 
