@@ -1,5 +1,5 @@
 # Hello World! I am Yazan 👋
-I am a computer science student at Qatar University, aspiring software engineer<br>🔭 I’m currently studying Web Development and Reinforcement Learning <br>🌱 I’m currently learning React JS<br>📫 How to reach me? yazan.j.alsaleh@gmail.com
+I am a computer science student at Qatar University, aspiring software engineer<br>🔭 I’m currently studying Web Development and Reinforcement Learning <br>🌱 I’m currently learning TypeScript & React JS<br>📫 How to reach me? yazan.j.alsaleh@gmail.com
 
 
 ## 🌐 Socials:
