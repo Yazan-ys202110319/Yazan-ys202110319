@@ -1,5 +1,5 @@
 # Hello World! I am Yazan 👋
-I am a computer science student at Qatar University, aspiring Machine Learning<br>🔭 I’m currently studying Machine Learning Engineer<br>🌱 I’m currently learning RAG & Computer Vision<br>📫 How to reach me? yazan.j.alsaleh@gmail.com
+I am a computer science student at Qatar University, aspiring Machine Learning Engineer<br>🔭 I’m currently studying Machine Learning<br>🌱 I’m currently learning RAG & Computer Vision<br>📫 How to reach me? yazan.j.alsaleh@gmail.com
 
 
 ## 🌐 Socials:
