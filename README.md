@@ -7,7 +7,7 @@
 
 
 
-## 🌐 Socials:
+## 📩 Contact:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yazan-alsaleh) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yazan.j.alsaleh@gmail.com)
 yazan.j.alsaleh@gmail.com
